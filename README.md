@@ -1,2 +1,2 @@
 # PCA-and-PCA-LDA-Ensemble-for-Face-Recognition
-Coursework on PCA (Eigenface) and PCA-LDA (Fisherface) ensemble for face recognition
+An exploration into face recognition, using generative unsupervised learning techniques such as PCA, discriminative supervised learning approaches such as LDA and ensemble methods employing randomization in the training and feature spaces

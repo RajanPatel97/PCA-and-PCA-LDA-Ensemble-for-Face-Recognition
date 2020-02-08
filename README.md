@@ -1,2 +1,2 @@
-# EE4-68-Pattern-Recognition-CW1
+# PCA-and-PCA-LDA-Ensemble-for-Face-Recognition
 Coursework on PCA (Eigenface) and PCA-LDA (Fisherface) ensemble for face recognition

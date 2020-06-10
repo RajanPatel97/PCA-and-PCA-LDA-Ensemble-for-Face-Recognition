@@ -1,2 +1,2 @@
 # PCA-and-PCA-LDA-Ensemble-for-Face-Recognition
-An exploration into face recognition, using generative unsupervised learning techniques such as PCA, discriminative supervised learning approaches such as LDA and ensemble methods employing randomization in the training and feature spaces
+We present an exploration into face recognition, using generative unsupervised learning techniques such as Principal Component Analysis (PCA), discriminative supervised learning approaches such as Linear Discriminant Analysis (LDA) and ensemble methods employing randomization in the training and feature spaces. We endeavour to find an optimal approach that maximizes the recognition accuracy whilst taking into consideration computational complexity.
